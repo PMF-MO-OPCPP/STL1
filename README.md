@@ -1,4 +1,4 @@
-# C++  STL 1
+# C++  STL 1 (ak. god. 2017/18.)
 
    
 Referenca: [en.cppreference.com/w/cpp](http://en.cppreference.com/w/cpp).
